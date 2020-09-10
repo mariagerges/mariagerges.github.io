@@ -1,4 +1,7 @@
-
+a.menu {
+    color: cyan;
+    background-color: thistle;
+}
 p {
     background-color: white ;
 }
@@ -36,10 +39,7 @@ div1{
     background-color: white;
 }
 
-a.menu {
-    color: cyan;
-    background-color: thistle;
-}
+
 
 li:hover {
     background-color: orchid;
