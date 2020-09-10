@@ -11,6 +11,7 @@ p {
 }
 .intro {
     background-color: yellow;
+    color: white;
   }  
 ol{
     color: white;
@@ -30,7 +31,7 @@ li {
     list-style-type: none;
     display: inline-block;
     width: 21%;
-    background-color: blue;
+    background-color: white;
     color: white;
     margin: 0px;
     padding: 10px;
