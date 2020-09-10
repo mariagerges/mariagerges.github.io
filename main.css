@@ -7,7 +7,7 @@ ol {
 body {
     color: black;
     background-color: white;
-    width: 1000px; /* many units for width */
+    width: 1000px; 
 }
 h1 {
     text-align: center;
@@ -41,7 +41,4 @@ li:hover {
 }
 
 
-/*
-class/id attributes to set properties of only certain tags
-this is a comment and is ignored
-*/
+
