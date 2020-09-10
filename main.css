@@ -2,11 +2,11 @@ p {
     background-color: white ;
 }
 ol {
-    color: pink;
+    color: palevioletred;
 }
 
 body {
-    color: pink;
+    color: palevioletred;
     background-color: whitesmoke;
     width: 1000px; /* many units for width */
 }
