@@ -3,7 +3,7 @@ p {
 }
 
 body {
-    /*color: red;*/
+    color: red;
     background-color: whitesmoke;
     width: 1000px; /* many units for width */
 }
@@ -30,11 +30,11 @@ div1{
     background-color: yellow;
 }
 
-/* menu is a class or "true class"
+/* menu is a class or "true class" */
 a.menu {
     color: cyan;
 }
-*/
+
 
 /* :hover is a pseudo-class */
 li:hover {
