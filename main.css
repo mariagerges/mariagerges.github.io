@@ -1,12 +1,12 @@
 p {
-    background-color: white ;
+    background-color: black ;
 }
 ol {
     color: palevioletred;
 }
 body {
     color: palevioletred;
-    background-color: whitesmoke;
+    background-color: black;
     width: 1000px; /* many units for width */
 }
 h1 {
