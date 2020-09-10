@@ -70,3 +70,15 @@ div.gdivclass{
 div.odivclass{
     color: salmon;
 }
+
+div.pdivclass{
+    color:cyan;
+}
+
+div.rdivclass{
+    color: darkorange;
+}
+
+div.qdivclass{
+    color: fuchsia;
+}
