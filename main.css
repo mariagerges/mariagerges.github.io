@@ -39,6 +39,10 @@ a.menu {
 li:hover {
     background-color: orchid;
 }
-
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
 
 
