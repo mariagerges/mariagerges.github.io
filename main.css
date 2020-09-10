@@ -38,8 +38,9 @@ li{
     padding: 10px;
 }
 div1{
-
-    background-color: white;
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
 }
 li:hover{
     background-color: orchid;
