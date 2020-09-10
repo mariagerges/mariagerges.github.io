@@ -1,3 +1,7 @@
+
+h1 {
+    text-align: center;
+}
 a.menu {
     color: cyan;
     background-color: thistle;
@@ -15,9 +19,6 @@ body {
     color: black;
     background-color: white;
     width: 1000px; 
-}
-h1 {
-    text-align: center;
 }
 
 ol {
