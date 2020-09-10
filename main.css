@@ -35,26 +35,8 @@ li{
     margin: 0px;
     padding: 10px;
 }
-.div1{
-    color: red;
-    text-align: center;
-}
-
-div2{
-    text-align: center;
-    background-color: teal;
-}
-
-div3{
-    text-align: center;
-    background-color: coral;
-}
-
 li:hover{
     background-color: orchid;
-}
-div.craeers{
-    color: red;
 }
 span.history{
     color: red;
@@ -64,4 +46,7 @@ span.data{
 }
 span.eng{
     color: red;
+}
+div.pdivclass{
+    color:yellow
 }
