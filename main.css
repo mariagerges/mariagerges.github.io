@@ -48,6 +48,11 @@ div2{
     background-color: teal;
 }
 
+div3{
+    text-align: center;
+    background-color: coral;
+}
+
 li:hover{
     background-color: orchid;
 }
