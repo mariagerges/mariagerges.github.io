@@ -30,25 +30,20 @@ div1{
     background-color: yellow;
 }
 
-/* menu is a class or "true class" */
 a.menu {
     color: cyan;
 }
 
-
-/* :hover is a pseudo-class */
 li:hover {
     background-color: orchid;
 }
 
 /*
-lines 1-3 are a "CSS block"
-css_selector {
-    property: value;
-    property: value;
-    property: value;
-    property: value;
+lines 1-3 are a "CSS block" */
+Article_Menu {
+    color: red;
 }
+/*
 class/id attributes to set properties of only certain tags
 this is a comment and is ignored
 */
