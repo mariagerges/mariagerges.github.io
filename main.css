@@ -38,9 +38,7 @@ li:hover {
     background-color: orchid;
 }
 
-/*
-lines 1-3 are a "CSS block" */
-Article_Menu {
+ol {
     color: red;
 }
 /*
