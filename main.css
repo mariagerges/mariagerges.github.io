@@ -36,8 +36,7 @@ li{
     padding: 10px;
 }
 div1{
-    border: 5px outset red;
-    background-color: lightblue;
+    color: red;
     text-align: center;
 }
 
@@ -54,8 +53,3 @@ div3{
 li:hover{
     background-color: orchid;
 }
-@media only screen and (max-width: 600px) {
-    body {
-      background-color: lightblue;
-    }
-  }
