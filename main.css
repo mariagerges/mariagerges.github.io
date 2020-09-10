@@ -2,6 +2,9 @@
 p {
     background-color: white ;
 }
+.intro {
+    background-color: yellow;
+  }  
 ol {
     color: blue;
 }
@@ -40,8 +43,4 @@ a.menu {
 li:hover {
     background-color: orchid;
 }
-div {
-    color: red;
-}
-
 
