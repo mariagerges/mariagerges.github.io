@@ -1,5 +1,5 @@
 p {
-    /*background-color: white;*/
+    background-color: grey ;
 }
 
 body {
@@ -52,6 +52,3 @@ css_selector {
 class/id attributes to set properties of only certain tags
 this is a comment and is ignored
 */
-a {
-    color: aqua;
-}
