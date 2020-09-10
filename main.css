@@ -1,7 +1,4 @@
-@media only screen and (max-width: 6000px) {
-    body {
-      background-color: red;
-    }
+
 p {
     background-color: white ;
 }
@@ -43,4 +40,8 @@ a.menu {
 li:hover {
     background-color: orchid;
 }
+div {
+    color: red;
+}
+
 
