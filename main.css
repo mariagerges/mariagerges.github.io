@@ -42,6 +42,12 @@ div1{
     background-color: lightblue;
     text-align: center;
 }
+
+div2{
+    text-align: center;
+    background-color: teal;
+}
+
 li:hover{
     background-color: orchid;
 }
