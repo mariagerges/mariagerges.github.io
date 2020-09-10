@@ -23,21 +23,21 @@ ol{
 body {
     color: black;
     background-color: white;
-    width: 2000px; 
+    width: 1300px; 
 }
 
 ol{
-    padding: 0px;
-    margin: 0px;
+    padding: 5px;
+    margin: 5px;
 }
 
 li{
     list-style-type: none;
     display: inline-block;
-    width: 50%;
+    width: 250%;
     background-color: black;
     color: yellow;
-    margin: 0px;
+    margin: 5px;
     padding: 10px;
 }
 li:hover{
