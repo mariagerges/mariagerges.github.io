@@ -38,6 +38,7 @@ div1{
 
 a.menu {
     color: cyan;
+    background-color: thistle;
 }
 
 li:hover {
